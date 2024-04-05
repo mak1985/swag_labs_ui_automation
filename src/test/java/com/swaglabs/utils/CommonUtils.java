@@ -476,7 +476,7 @@ public class CommonUtils extends PageInitializer {
             logger.error("Error while taking screenshot: " + e.getMessage());
             e.printStackTrace();
             return null;
-            System.out.println("");
+
         }
     }
 }
