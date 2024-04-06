@@ -5,76 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a775dd84-ed25-4643-b127-cc320dc0ab18" name="Changes" comment="Core java sessions codes">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day01/FirstJavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day02/DataVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day02/PrimitiveDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day03/AllDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day03/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/ConditionalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/IfElseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/StringConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/ElseIfLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/SwitchCaseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/BreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/ContinueStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/EmpDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/ForLoopSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/SingleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day07/TwoDimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day08/StringOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day09/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day09/Students1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day10/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day10/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day10/StudentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/MyConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/PrivateModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/EmpData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/NoParameterizedConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/ParameterizedConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day13/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day13/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day13/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day14/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day14/MainMethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day14/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day15/MultiLevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day15/SingleLevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day16/HierarchicalInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day16/MethodOverridingConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day17/TestAbstractDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day18/EmployeeDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day18/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day18/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day19/EmployeeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day19/ThisKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day19/UnauthorizedUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day20/WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day21/ExceptionHandlingExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day22/ThrowKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day22/ThrowsKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day23/MultiThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day23/MultiThreadingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day24/ArrayListCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day25/ArrayListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day27/LinkedListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day27/linkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day28/HashSetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day28/HashSetCode2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day29/CheckUnionOfTwoSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day29/LinkedHashSetSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day29/SetIntersectionCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day30/QueueInterfaceCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day31/HashMapSampleCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day32/HashTableSampleCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/ApachePOI/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/ApachePOI/ExcelWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/pom/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/pom/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/pom/LoginWithPom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/pom/LoginWithoutPom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/AlertsHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/AuthenticationPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/CaptureScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/ClickingOnImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/CountRadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/DatePicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/DropdownHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/ExplicitWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/FirstTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/FluentWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/GlobalWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/HyperlinksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/IframeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/JavScriptExecutorSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/MouseOverAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/MouseOverActionsPerform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/MultipleWindowsHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/NestedIframeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/OpenNewTabOrWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/ToolTip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/selenium/WebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/AssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/Attrubutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/CustomTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/DataProviderSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/GroupAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/InvocationCountsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/ListenerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/LoggerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/ParallelTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/SampleTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/TestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/TestNGParameterSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/seleniumSessions/testng/TestNGSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +89,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/swag_labs_ui_automation/src/test/java/com/swaglabs/coreJavaSessions"
+    "last_opened_file_path": "D:/swag_labs_ui_automation/src/test/java/com/swaglabs/seleniumSessions"
   }
 }]]></component>
   <component name="RecentsManager">
