@@ -4,11 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a775dd84-ed25-4643-b127-cc320dc0ab18" name="Changes" comment="Test">
+    <list default="true" id="a775dd84-ed25-4643-b127-cc320dc0ab18" name="Changes" comment="Core java sessions codes">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day01/FirstJavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day02/DataVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day02/PrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day03/AllDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day03/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/IfElseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day04/StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/ElseIfLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/SwitchCaseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day05/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/EmpDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/ForLoopSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day06/SingleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day07/TwoDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day08/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day09/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day09/Students1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day10/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day10/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day10/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/MyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/PrivateModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day11/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/EmpData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/NoParameterizedConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day12/ParameterizedConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day13/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day13/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day13/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day14/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day14/MainMethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day14/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day15/MultiLevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day15/SingleLevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day16/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day16/MethodOverridingConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day17/TestAbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day18/EmployeeDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day18/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day18/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day19/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day19/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day19/UnauthorizedUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day20/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day21/ExceptionHandlingExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day22/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day22/ThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day23/MultiThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day23/MultiThreadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day24/ArrayListCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day25/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day27/LinkedListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day27/linkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day28/HashSetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day28/HashSetCode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day29/CheckUnionOfTwoSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day29/LinkedHashSetSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day29/SetIntersectionCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day30/QueueInterfaceCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day31/HashMapSampleCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/coreJavaSessions/day32/HashTableSampleCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/swaglabs/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/swaglabs/utils/AppTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/swaglabs/utils/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/swaglabs/utils/CommonUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +105,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: login.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: User should able to login to Swag Labs website.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Validate login functionality with multiple users.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/Swag-Labs-Selenium-Web-Automation/src/test/resources&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: login.executor": "Run",
+    "Cucumber Java.Scenario: User should able to login to Swag Labs website.executor": "Run",
+    "Cucumber Java.Scenario: Validate login functionality with multiple users.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/swag_labs_ui_automation/src/test/java/com/swaglabs/coreJavaSessions"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\swag_labs_ui_automation\src\test\java\com\swaglabs\coreJavaSessions" />
       <recent name="C:\Users\Lenovo\IdeaProjects\Swag-Labs-Selenium-Web-Automation\src\test\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -157,6 +224,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Core java sessions codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Core java sessions codes" />
   </component>
 </project>
